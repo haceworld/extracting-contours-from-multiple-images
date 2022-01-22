@@ -1,8 +1,8 @@
-# extracting-contours-from-multiple-images
+# Extracting-contours-from-multiple-images
 
 Contours can be explained simply as a curve joining all the continuous points (along the boundary), having same color or intensity. The contours are a useful tool for shape analysis and object detection and recognition.
 
-The code is put together to reads multiple images from a folder, extracts contours, and save them in another folder.
+The code is put together to read multiple images from a folder, extracts contours, and save them in another folder.
 Remember to make changes to the path folder directory. The result of the code is presented below:
 
 ![092b65623967e7](https://user-images.githubusercontent.com/61402731/150636076-27a869fb-ad91-49b5-aada-69f5e821f8b7.jpg)
